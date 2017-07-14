@@ -18,7 +18,10 @@ This site attempts to list Data Science and general Science (with a Stats focus)
 Please feel free to add any missing group or conference.
 To propose a change, just click the pencil icon in the top left hand corner.
 
-This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com).
+This list is maintained by [Jumping Rivers](https://www.jumpingrivers.com). See
+
+ * [meetingsR](https://jumpingrivers.github.io/meetingsR/) for a list of R events and user groups.
+ * [meetingsDS](https://jumpingrivers.github.io/meetingsDS) for a list of Data science events and user groups.
 
 ## Technical bit 
 
