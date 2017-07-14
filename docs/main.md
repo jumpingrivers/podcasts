@@ -53,7 +53,7 @@ common problems in the life of a data scientist.
 
 ## Data stories
 
-[Data Storiies](http://datastori.es/) is a podcast on data visualisation by 
+[Data Stories](http://datastori.es/) is a podcast on data visualisation by 
 Enrico Bertini and Moritz Stefaner.
 
 ## Talking machines
@@ -82,11 +82,22 @@ data-driven world.
 
   * [\@DataSkeptic](https://twitter.com/DataSkeptic)
   * [Website](https://dataskeptic.com/)
+  
  
 ## Partially derivative 
 
  * [\@partiallyd](https://twitter.com/partiallyd)
  * [Website](http://partiallyderivative.com/)
+ 
+## O'Reilly Data Show
+
+The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data and data science.
+
+ * [Website](https://www.oreilly.com/topics/oreilly-data-show-podcast)
+ * [itunes](https://itunes.apple.com/us/podcast/oreilly-data-show/id944929220)
+ * [Stitcher](http://www.stitcher.com/podcast/oreilly-media-2/the-oreilly-data-show-podcast?refid=stpr)
+ * [SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)
+ * [RSS](http://feeds.podtrac.com/IOJSwQcdEBcg)
 
 <!--chapter:end:01-technical.Rmd-->
 
