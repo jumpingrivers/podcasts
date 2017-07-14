@@ -72,3 +72,27 @@ A biweekly interview with a data scientist or someone on their way to becoming a
 * [Website](http://www.becomingadatascientist.com/category/podcast/)
 * [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
 * [RSS](https://www.becomingadatascientist.com/feed/podcast)
+
+## Data Science at home
+
+Podcast about datascience and machine learning, focused on entreprise aaplication.
+
+* [Website](http://podcast.datascienceathome.com/)
+
+## Learning Machines 101
+
+A podcast focused on introduction to machine learning.
+
+* [Website](http://www.learningmachines101.com/)
+
+## Concerning AI 
+
+A show about AI. 
+
+* [Website](https://concerning.ai/)
+
+## Talking Machines
+
+A podcast talking about machine learning. The hosts Katherine Gorman and Neil Lawrence bring clear conversations with experts in the field, insightful discussions of industry topics, and useful answers to questions.
+
+* [Website](http://www.thetalkingmachines.com/)
