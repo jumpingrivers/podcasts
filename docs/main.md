@@ -94,6 +94,7 @@ Mathematics. Each programme lasts one hour.
 
  * [Main site](http://www.bbc.co.uk/programmes/b006qykl)
  * [Science shows](http://www.bbc.co.uk/programmes/p01gyd7j)
+ * [Wikipedia](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))
 
 <!--chapter:end:02_general.Rmd-->
 
