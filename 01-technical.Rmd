@@ -63,3 +63,12 @@ The O'Reilly Data Show Podcast explores the opportunities and techniques driving
  * [Stitcher](http://www.stitcher.com/podcast/oreilly-media-2/the-oreilly-data-show-podcast?refid=stpr)
  * [SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)
  * [RSS](http://feeds.podtrac.com/IOJSwQcdEBcg)
+
+## Becoming a Data Scientist
+
+A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+
+* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
+* [Website](http://www.becomingadatascientist.com/category/podcast/)
+* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
+* [RSS](https://www.becomingadatascientist.com/feed/podcast)
