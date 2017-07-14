@@ -18,7 +18,7 @@ common problems in the life of a data scientist.
 
 ## Data stories
 
-[Data Storiies](http://datastori.es/) is a podcast on data visualisation by 
+[Data Stories](http://datastori.es/) is a podcast on data visualisation by 
 Enrico Bertini and Moritz Stefaner.
 
 ## Talking machines
