@@ -1,0 +1,21 @@
+bookdown::gitbook:
+  number_sections: false
+  css: [css/style.css,style.css] #A hacky fix to make it work with chapter preview
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Data Science Podcasts</a></li>
+      after: |
+        <div class="div-wrapper"><a href="https://www.jumpingrivers.com"><img src = "logo.png" style="width:100px;"></a></div>
+    edit:
+      link: https://github.com/jumpingrivers/podcasts/edit/master/%s
+      text: "Edit"
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  keep_tex: yes
+
+
+
+

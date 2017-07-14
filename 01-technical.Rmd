@@ -1,0 +1,33 @@
+---
+knit: "bookdown::preview_chapter"
+---
+
+# Technical Podcasts
+
+These podcasts are aimed at a more technical audience.
+
+## Not so standard deviations
+
+A data science podcast by Roger Peng ([\@rdpeng](https://twitter.com/rdpend) and
+Hilary Parker ([\@hspter](https://twitter.com/hspter) who talk about the latest in
+data science and data analysis in academia and industry. They talk a lot about R and
+common problems in the life of a data scientist.
+
+ * [\@SSDeviations](https://twitter.com/nssdeviations)
+ * [iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570?mt=2)
+
+## Data stories
+
+[Data Storiies](http://datastori.es/) is a podcast on data visualisation by 
+Enrico Bertini and Moritz Stefaner.
+
+## Talking machines
+
+[Talking machines](http://www.thetalkingmachines.com/) is a machine learning podcast.
+It is generally covers more technical topics than other podcasts.
+
+## The R podcast
+
+As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
+
+ * [\@thercast](https://twitter.com/thercast)

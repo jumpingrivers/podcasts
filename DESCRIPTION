@@ -1,0 +1,10 @@
+Package: podcasts
+Type: Package
+Title: A list of Data Science Podcasts
+Version: 0.1.0
+Authors@R: person(given="Colin", family="Gillespie",
+    email="csgillespie@gmail.com", role = c("aut", "cre"))
+Maintainer: Colin Gillespie <csgillespie@gmail.com>
+Description: This is a dummy travis package.
+Depends: bookdown, devtools
+LazyData: TRUE
