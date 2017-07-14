@@ -8,8 +8,8 @@ These podcasts are aimed at a more technical audience.
 
 ## Not so standard deviations
 
-A data science podcast by Roger Peng ([\@rdpeng](https://twitter.com/rdpend) and
-Hilary Parker ([\@hspter](https://twitter.com/hspter) who talk about the latest in
+A data science podcast by Roger Peng [\@rdpeng](https://twitter.com/rdpend) and
+Hilary Parker [\@hspter](https://twitter.com/hspter) who talk about the latest in
 data science and data analysis in academia and industry. They talk a lot about R and
 common problems in the life of a data scientist.
 
@@ -63,3 +63,12 @@ The O'Reilly Data Show Podcast explores the opportunities and techniques driving
  * [Stitcher](http://www.stitcher.com/podcast/oreilly-media-2/the-oreilly-data-show-podcast?refid=stpr)
  * [SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)
  * [RSS](http://feeds.podtrac.com/IOJSwQcdEBcg)
+
+## Becoming a Data Scientist
+
+A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+
+* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
+* [Website](http://www.becomingadatascientist.com/category/podcast/)
+* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
+* [RSS](https://www.becomingadatascientist.com/feed/podcast)
