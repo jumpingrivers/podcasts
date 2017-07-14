@@ -31,3 +31,24 @@ It is generally covers more technical topics than other podcasts.
 As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
 
  * [\@thercast](https://twitter.com/thercast)
+
+## Linear digression
+
+Linear Digressions is a podcast about Machine Learning and Data Science
+
+ * [\@LinDigressions](https://twitter.com/LinDigressions)
+ 
+## Data skeptic
+
+Data Skeptic is your source for a perspective of scientific skepticism on topics in
+statistics, machine learning, big data, artificial intelligence, and data science. Our
+weekly podcast and blog bring you stories and tutorials to help understand our
+data-driven world.
+
+  * [\@DataSkeptic](https://twitter.com/DataSkeptic)
+  * [Website](https://dataskeptic.com/)
+ 
+## Partially derivative 
+
+ * [\@partiallyd](https://twitter.com/partiallyd)
+ * [Website](http://partiallyderivative.com/)
