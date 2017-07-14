@@ -8,8 +8,8 @@ These podcasts are aimed at a more technical audience.
 
 ## Not so standard deviations
 
-A data science podcast by Roger Peng ([\@rdpeng](https://twitter.com/rdpend) and
-Hilary Parker ([\@hspter](https://twitter.com/hspter) who talk about the latest in
+A data science podcast by Roger Peng [\@rdpeng](https://twitter.com/rdpend) and
+Hilary Parker [\@hspter](https://twitter.com/hspter) who talk about the latest in
 data science and data analysis in academia and industry. They talk a lot about R and
 common problems in the life of a data scientist.
 
