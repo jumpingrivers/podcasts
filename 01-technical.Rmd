@@ -6,6 +6,57 @@ knit: "bookdown::preview_chapter"
 
 These podcasts are aimed at a more technical audience.
 
+## Becoming a Data Scientist
+
+A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+
+* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
+* [Website](http://www.becomingadatascientist.com/category/podcast/)
+* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
+* [RSS](https://www.becomingadatascientist.com/feed/podcast)
+
+## Concerning AI 
+
+A show about AI. 
+
+* [Website](https://concerning.ai/)
+* [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
+
+## Data Science at home
+
+Podcast about datascience and machine learning, focused on entreprise aaplication.
+
+* [Website](http://podcast.datascienceathome.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
+
+## Data Stories
+
+[Data Stories](http://datastori.es/) is a podcast on data visualisation by 
+Enrico Bertini and Moritz Stefaner.
+
+## Data Skeptic
+
+Data Skeptic is your source for a perspective of scientific skepticism on topics in
+statistics, machine learning, big data, artificial intelligence, and data science. Our
+weekly podcast and blog bring you stories and tutorials to help understand our
+data-driven world.
+
+  * [\@DataSkeptic](https://twitter.com/DataSkeptic)
+  * [Website](https://dataskeptic.com/)
+
+## Learning Machines 101
+
+A podcast focused on introduction to machine learning.
+
+* [Website](http://www.learningmachines101.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
+
+## Linear Digression
+
+Linear Digressions is a podcast about Machine Learning and Data Science
+
+ * [\@LinDigressions](https://twitter.com/LinDigressions)
+
 ## Not so Standard Deviations
 
 A data science podcast by Roger Peng [\@rdpeng](https://twitter.com/rdpend) and
@@ -16,44 +67,6 @@ common problems in the life of a data scientist.
  * [\@SSDeviations](https://twitter.com/nssdeviations)
  * [iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570?mt=2)
 
-## Data Stories
-
-[Data Stories](http://datastori.es/) is a podcast on data visualisation by 
-Enrico Bertini and Moritz Stefaner.
-
-## Talking Machines
-
-[Talking machines](http://www.thetalkingmachines.com/) is a machine learning podcast.
-It is generally covers more technical topics than other podcasts.
-
-## The R Podcast
-
-As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
-
- * [\@thercast](https://twitter.com/thercast)
-
-## Linear Digression
-
-Linear Digressions is a podcast about Machine Learning and Data Science
-
- * [\@LinDigressions](https://twitter.com/LinDigressions)
- 
-## Data Skeptic
-
-Data Skeptic is your source for a perspective of scientific skepticism on topics in
-statistics, machine learning, big data, artificial intelligence, and data science. Our
-weekly podcast and blog bring you stories and tutorials to help understand our
-data-driven world.
-
-  * [\@DataSkeptic](https://twitter.com/DataSkeptic)
-  * [Website](https://dataskeptic.com/)
-  
- 
-## Partially Derivative 
-
- * [\@partiallyd](https://twitter.com/partiallyd)
- * [Website](http://partiallyderivative.com/)
- 
 ## O'Reilly Data Show
 
 The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data and data science.
@@ -64,35 +77,17 @@ The O'Reilly Data Show Podcast explores the opportunities and techniques driving
  * [SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)
  * [RSS](http://feeds.podtrac.com/IOJSwQcdEBcg)
 
-## Becoming a Data Scientist
+## Partially Derivative 
 
-A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+ * [\@partiallyd](https://twitter.com/partiallyd)
+ * [Website](http://partiallyderivative.com/)
 
-* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
-* [Website](http://www.becomingadatascientist.com/category/podcast/)
-* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
-* [RSS](https://www.becomingadatascientist.com/feed/podcast)
+## The R Podcast
 
-## Data Science at home
+As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
 
-Podcast about datascience and machine learning, focused on entreprise aaplication.
+ * [\@thercast](https://twitter.com/thercast)
 
-* [Website](http://podcast.datascienceathome.com/)
-* [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
-
-## Learning Machines 101
-
-A podcast focused on introduction to machine learning.
-
-* [Website](http://www.learningmachines101.com/)
-* [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
-
-## Concerning AI 
-
-A show about AI. 
-
-* [Website](https://concerning.ai/)
-* [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
 
 ## Talking Machines
 
@@ -103,3 +98,9 @@ A podcast talking about machine learning. The hosts Katherine Gorman and Neil La
 * [Soundcloud](https://soundcloud.com/talkingmachines)
 * [RSS](http://www.thetalkingmachines.com/blog/?format=RSS)
 * [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
+
+ 
+  
+ 
+ 
+
