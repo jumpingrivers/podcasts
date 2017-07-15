@@ -30,7 +30,7 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 
 ## Original source
 
-The idea came from a twitter conversation with \@_ColinFay and \@ma_salmon who pointed out
+The idea came from a twitter conversation with [@_ColinFay](https://twitter.com/_ColinFay) and [@ma_salmon](https://twitter.com/ma_salmon) who pointed out
 this great list of [sites](http://heidiseibold.github.io/2016/12/04/podcasts/) written by
 [\@HeidiBaya](https://twitter.com/HeidiBaya).
 
@@ -111,6 +111,37 @@ A biweekly interview with a data scientist or someone on their way to becoming a
 * [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
 * [RSS](https://www.becomingadatascientist.com/feed/podcast)
 
+## Data Science at home
+
+Podcast about datascience and machine learning, focused on entreprise aaplication.
+
+* [Website](http://podcast.datascienceathome.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
+
+## Learning Machines 101
+
+A podcast focused on introduction to machine learning.
+
+* [Website](http://www.learningmachines101.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
+
+## Concerning AI 
+
+A show about AI. 
+
+* [Website](https://concerning.ai/)
+* [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
+
+## Talking Machines
+
+A podcast talking about machine learning. The hosts Katherine Gorman and Neil Lawrence bring clear conversations with experts in the field, insightful discussions of industry topics, and useful answers to questions.
+
+* [Website](http://www.thetalkingmachines.com/)
+* [Twitter](https://twitter.com/TlkngMchns)
+* [Soundcloud](https://soundcloud.com/talkingmachines)
+* [RSS](http://www.thetalkingmachines.com/blog/?format=RSS)
+* [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
+
 <!--chapter:end:01-technical.Rmd-->
 
 ---
@@ -139,6 +170,17 @@ Mathematics. Each programme lasts one hour.
  * [Main site](http://www.bbc.co.uk/programmes/b006qykl)
  * [Science shows](http://www.bbc.co.uk/programmes/p01gyd7j)
  * [Wikipedia](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))
+
+## Hidden Brain
+
+The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+*(Some episodes discuss concepts and ideas related to data, hypotheses, human biases,..etc.)*
+
+* [@HiddenBrain](https://twitter.com/HiddenBrain)
+* [Website](http://www.npr.org/series/423302056/hidden-brain)
+* [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
+* [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
+
 
 <!--chapter:end:02_general.Rmd-->
 
