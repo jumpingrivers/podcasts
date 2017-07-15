@@ -140,5 +140,16 @@ Mathematics. Each programme lasts one hour.
  * [Science shows](http://www.bbc.co.uk/programmes/p01gyd7j)
  * [Wikipedia](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))
 
+## Hidden Brain
+
+The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+*(Some episodes discuss concepts and ideas related to data, hypotheses, human biases,..etc.)*
+
+* [@HiddenBrain](https://twitter.com/HiddenBrain)
+* [Website](http://www.npr.org/series/423302056/hidden-brain)
+* [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
+* [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
+
+
 <!--chapter:end:02_general.Rmd-->
 
