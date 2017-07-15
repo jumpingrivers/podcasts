@@ -30,7 +30,7 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 
 ## Original source
 
-The idea came from a twitter conversation with [@_ColinFay](https://twitter.com/_ColinFay) and [@ma_salmon](https://twitter.com/ma_salmon) who pointed out
+The idea came from a twitter conversation with [\@_ColinFay](https://twitter.com/_ColinFay) and [\@ma_salmon](https://twitter.com/ma_salmon) who pointed out
 this great list of [sites](http://heidiseibold.github.io/2016/12/04/podcasts/) written by
 [\@HeidiBaya](https://twitter.com/HeidiBaya).
 
@@ -44,7 +44,58 @@ knit: "bookdown::preview_chapter"
 
 These podcasts are aimed at a more technical audience.
 
-## Not so standard deviations
+## Becoming a Data Scientist
+
+A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+
+* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
+* [Website](http://www.becomingadatascientist.com/category/podcast/)
+* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
+* [RSS](https://www.becomingadatascientist.com/feed/podcast)
+
+## Concerning AI 
+
+A show about AI. 
+
+* [Website](https://concerning.ai/)
+* [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
+
+## Data Science at home
+
+Podcast about datascience and machine learning, focused on entreprise aaplication.
+
+* [Website](http://podcast.datascienceathome.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
+
+## Data Stories
+
+[Data Stories](http://datastori.es/) is a podcast on data visualisation by 
+Enrico Bertini and Moritz Stefaner.
+
+## Data Skeptic
+
+Data Skeptic is your source for a perspective of scientific skepticism on topics in
+statistics, machine learning, big data, artificial intelligence, and data science. Our
+weekly podcast and blog bring you stories and tutorials to help understand our
+data-driven world.
+
+  * [\@DataSkeptic](https://twitter.com/DataSkeptic)
+  * [Website](https://dataskeptic.com/)
+
+## Learning Machines 101
+
+A podcast focused on introduction to machine learning.
+
+* [Website](http://www.learningmachines101.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
+
+## Linear Digression
+
+Linear Digressions is a podcast about Machine Learning and Data Science
+
+ * [\@LinDigressions](https://twitter.com/LinDigressions)
+
+## Not so Standard Deviations
 
 A data science podcast by Roger Peng [\@rdpeng](https://twitter.com/rdpend) and
 Hilary Parker [\@hspter](https://twitter.com/hspter) who talk about the latest in
@@ -54,44 +105,6 @@ common problems in the life of a data scientist.
  * [\@SSDeviations](https://twitter.com/nssdeviations)
  * [iTunes](https://itunes.apple.com/us/podcast/not-so-standard-deviations/id1040614570?mt=2)
 
-## Data stories
-
-[Data Stories](http://datastori.es/) is a podcast on data visualisation by 
-Enrico Bertini and Moritz Stefaner.
-
-## Talking machines
-
-[Talking machines](http://www.thetalkingmachines.com/) is a machine learning podcast.
-It is generally covers more technical topics than other podcasts.
-
-## The R podcast
-
-As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
-
- * [\@thercast](https://twitter.com/thercast)
-
-## Linear digression
-
-Linear Digressions is a podcast about Machine Learning and Data Science
-
- * [\@LinDigressions](https://twitter.com/LinDigressions)
- 
-## Data skeptic
-
-Data Skeptic is your source for a perspective of scientific skepticism on topics in
-statistics, machine learning, big data, artificial intelligence, and data science. Our
-weekly podcast and blog bring you stories and tutorials to help understand our
-data-driven world.
-
-  * [\@DataSkeptic](https://twitter.com/DataSkeptic)
-  * [Website](https://dataskeptic.com/)
-  
- 
-## Partially derivative 
-
- * [\@partiallyd](https://twitter.com/partiallyd)
- * [Website](http://partiallyderivative.com/)
- 
 ## O'Reilly Data Show
 
 The O'Reilly Data Show Podcast explores the opportunities and techniques driving big data and data science.
@@ -102,35 +115,17 @@ The O'Reilly Data Show Podcast explores the opportunities and techniques driving
  * [SoundCloud](https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast)
  * [RSS](http://feeds.podtrac.com/IOJSwQcdEBcg)
 
-## Becoming a Data Scientist
+## Partially Derivative 
 
-A biweekly interview with a data scientist or someone on their way to becoming a data scientist.
+ * [\@partiallyd](https://twitter.com/partiallyd)
+ * [Website](http://partiallyderivative.com/)
 
-* [\@BecomingDataSci](https://twitter.com/BecomingDataSci)
-* [Website](http://www.becomingadatascientist.com/category/podcast/)
-* [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
-* [RSS](https://www.becomingadatascientist.com/feed/podcast)
+## The R Podcast
 
-## Data Science at home
+As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
 
-Podcast about datascience and machine learning, focused on entreprise aaplication.
+ * [\@thercast](https://twitter.com/thercast)
 
-* [Website](http://podcast.datascienceathome.com/)
-* [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
-
-## Learning Machines 101
-
-A podcast focused on introduction to machine learning.
-
-* [Website](http://www.learningmachines101.com/)
-* [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
-
-## Concerning AI 
-
-A show about AI. 
-
-* [Website](https://concerning.ai/)
-* [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
 
 ## Talking Machines
 
@@ -141,6 +136,12 @@ A podcast talking about machine learning. The hosts Katherine Gorman and Neil La
 * [Soundcloud](https://soundcloud.com/talkingmachines)
 * [RSS](http://www.thetalkingmachines.com/blog/?format=RSS)
 * [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
+
+ 
+  
+ 
+ 
+
 
 <!--chapter:end:01-technical.Rmd-->
 
@@ -153,14 +154,16 @@ knit: "bookdown::preview_chapter"
 These podcasts are aimed at a more general audience, who don't necessary
 programme or have a Maths background.
 
-## More or Less
+## Hidden Brain
 
-Tim Harford explains - and sometimes debunks - the numbers and statistics used in political debate, the news and everyday life.
-The programme has a UK slant, but covers global topics.
+The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+*(Some episodes discuss concepts and ideas related to data, hypotheses, human biases,..etc.)*
 
- * [BBC website](http://www.bbc.co.uk/programmes/b006qshd)
- 
- 
+* [\@HiddenBrain](https://twitter.com/HiddenBrain)
+* [Website](http://www.npr.org/series/423302056/hidden-brain)
+* [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
+* [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
+
 ## In our Time
 
 In Our Time is a live BBC radio discussion series exploring the history of ideas, 
@@ -171,16 +174,14 @@ Mathematics. Each programme lasts one hour.
  * [Science shows](http://www.bbc.co.uk/programmes/p01gyd7j)
  * [Wikipedia](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))
 
-## Hidden Brain
+## More or Less
 
-The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
-*(Some episodes discuss concepts and ideas related to data, hypotheses, human biases,..etc.)*
+Tim Harford explains - and sometimes debunks - the numbers and statistics used in political debate, the news and everyday life.
+The programme has a UK slant, but covers global topics.
 
-* [@HiddenBrain](https://twitter.com/HiddenBrain)
-* [Website](http://www.npr.org/series/423302056/hidden-brain)
-* [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
-* [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
-
+ * [BBC website](http://www.bbc.co.uk/programmes/b006qshd)
+ 
+ 
 
 <!--chapter:end:02_general.Rmd-->
 
