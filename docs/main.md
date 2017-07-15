@@ -154,6 +154,13 @@ knit: "bookdown::preview_chapter"
 These podcasts are aimed at a more general audience, who don't necessary
 programme or have a Maths background.
 
+## Everything Hertz
+
+A podcast by scientists, for scientists. Methodology, scientific life, and bad language. Hosted by [\@dsquintana](https://twitter.com/dsquintana) and [\@jamesheathers](https://twitter.com/jamesheathers)
+
+  * [\@hertzpodcast](https://twitter.com/hertzpodcast)
+  * [Website](https://soundcloud.com/everything-hertz)
+  
 ## Hidden Brain
 
 The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
@@ -181,7 +188,7 @@ The programme has a UK slant, but covers global topics.
 
  * [BBC website](http://www.bbc.co.uk/programmes/b006qshd)
  
- 
 
-<!--chapter:end:02_general.Rmd-->
+
+<!--chapter:end:02-general.Rmd-->
 
