@@ -7,24 +7,6 @@ knit: "bookdown::preview_chapter"
 These podcasts are aimed at a more general audience, who don't necessary
 programme or have a Maths background.
 
-## More or Less
-
-Tim Harford explains - and sometimes debunks - the numbers and statistics used in political debate, the news and everyday life.
-The programme has a UK slant, but covers global topics.
-
- * [BBC website](http://www.bbc.co.uk/programmes/b006qshd)
- 
- 
-## In our Time
-
-In Our Time is a live BBC radio discussion series exploring the history of ideas, 
-presented by Melvyn Bragg since 15 October 1998. It covers a variety of topics, including
-Mathematics. Each programme lasts one hour. 
-
- * [Main site](http://www.bbc.co.uk/programmes/b006qykl)
- * [Science shows](http://www.bbc.co.uk/programmes/p01gyd7j)
- * [Wikipedia](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))
-
 ## Hidden Brain
 
 The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
@@ -35,3 +17,21 @@ The Hidden Brain helps curious people understand the world – and themselves. U
 * [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
 * [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
 
+## In our Time
+
+In Our Time is a live BBC radio discussion series exploring the history of ideas, 
+presented by Melvyn Bragg since 15 October 1998. It covers a variety of topics, including
+Mathematics. Each programme lasts one hour. 
+
+ * [Main site](http://www.bbc.co.uk/programmes/b006qykl)
+ * [Science shows](http://www.bbc.co.uk/programmes/p01gyd7j)
+ * [Wikipedia](https://en.wikipedia.org/wiki/In_Our_Time_(radio_series))
+
+## More or Less
+
+Tim Harford explains - and sometimes debunks - the numbers and statistics used in political debate, the news and everyday life.
+The programme has a UK slant, but covers global topics.
+
+ * [BBC website](http://www.bbc.co.uk/programmes/b006qshd)
+ 
+ 
