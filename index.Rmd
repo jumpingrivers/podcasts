@@ -33,6 +33,6 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 
 ## Original source
 
-The idea came from a twitter conversation with [@_ColinFay](https://twitter.com/_ColinFay) and [@ma_salmon](https://twitter.com/ma_salmon) who pointed out
+The idea came from a twitter conversation with [\@_ColinFay](https://twitter.com/_ColinFay) and [\@ma_salmon](https://twitter.com/ma_salmon) who pointed out
 this great list of [sites](http://heidiseibold.github.io/2016/12/04/podcasts/) written by
 [\@HeidiBaya](https://twitter.com/HeidiBaya).
