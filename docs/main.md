@@ -30,7 +30,7 @@ creates the html files from the `.Rmd` files and commits them to the `docs/` dir
 
 ## Original source
 
-The idea came from a twitter conversation with \@_ColinFay and \@ma_salmon who pointed out
+The idea came from a twitter conversation with [@_ColinFay](https://twitter.com/_ColinFay) and [@ma_salmon](https://twitter.com/ma_salmon) who pointed out
 this great list of [sites](http://heidiseibold.github.io/2016/12/04/podcasts/) written by
 [\@HeidiBaya](https://twitter.com/HeidiBaya).
 
@@ -110,6 +110,37 @@ A biweekly interview with a data scientist or someone on their way to becoming a
 * [Website](http://www.becomingadatascientist.com/category/podcast/)
 * [Stitcher](http://www.stitcher.com/podcast/becoming-a-data-scientist-podcast)
 * [RSS](https://www.becomingadatascientist.com/feed/podcast)
+
+## Data Science at home
+
+Podcast about datascience and machine learning, focused on entreprise aaplication.
+
+* [Website](http://podcast.datascienceathome.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
+
+## Learning Machines 101
+
+A podcast focused on introduction to machine learning.
+
+* [Website](http://www.learningmachines101.com/)
+* [iTunes](https://itunes.apple.com/us/podcast/learning-machines-101/id892779679?mt=2)
+
+## Concerning AI 
+
+A show about AI. 
+
+* [Website](https://concerning.ai/)
+* [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
+
+## Talking Machines
+
+A podcast talking about machine learning. The hosts Katherine Gorman and Neil Lawrence bring clear conversations with experts in the field, insightful discussions of industry topics, and useful answers to questions.
+
+* [Website](http://www.thetalkingmachines.com/)
+* [Twitter](https://twitter.com/TlkngMchns)
+* [Soundcloud](https://soundcloud.com/talkingmachines)
+* [RSS](http://www.thetalkingmachines.com/blog/?format=RSS)
+* [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
 
 <!--chapter:end:01-technical.Rmd-->
 
