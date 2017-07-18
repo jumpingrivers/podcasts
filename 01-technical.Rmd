@@ -24,7 +24,7 @@ A show about AI.
 
 ## Data Science at home
 
-Podcast about datascience and machine learning, focused on entreprise aaplication.
+Podcast about datascience and machine learning, focused on entreprise applications.
 
 * [Website](http://podcast.datascienceathome.com/)
 * [iTunes](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
@@ -33,6 +33,9 @@ Podcast about datascience and machine learning, focused on entreprise aaplicatio
 
 [Data Stories](http://datastori.es/) is a podcast on data visualisation by 
 Enrico Bertini and Moritz Stefaner.
+
+ * [\@datastories](https://twitter.com/datastories)
+ * [Website](http://datastori.es/)
 
 ## Data Skeptic
 
@@ -94,7 +97,7 @@ As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
 A podcast talking about machine learning. The hosts Katherine Gorman and Neil Lawrence bring clear conversations with experts in the field, insightful discussions of industry topics, and useful answers to questions.
 
 * [Website](http://www.thetalkingmachines.com/)
-* [Twitter](https://twitter.com/TlkngMchns)
+* [\TlkngMchns](https://twitter.com/TlkngMchns)
 * [Soundcloud](https://soundcloud.com/talkingmachines)
 * [RSS](http://www.thetalkingmachines.com/blog/?format=RSS)
 * [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
