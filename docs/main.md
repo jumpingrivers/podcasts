@@ -60,6 +60,15 @@ A show about AI.
 * [Website](https://concerning.ai/)
 * [iTunes](https://itunes.apple.com/us/podcast/concerning-ai-existential-risk-from-artificial-intelligence/id1038719211?mt=2)
 
+## DataFramed
+
+DataCamp’s official podcast. 
+
+* [Website](https://www.datacamp.com/community/podcast)
+* [iTunes](https://itunes.apple.com/au/podcast/dataframed/id1336150688)
+* [GooglePlay Music](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Idltnsiq2bvzpfzn5tni3iixyta?t%3DDataFramed%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+* [SoundCloud](https://soundcloud.com/dataframed)
+
 ## Data Science at home
 
 Podcast about datascience and machine learning, focused on entreprise applications.
