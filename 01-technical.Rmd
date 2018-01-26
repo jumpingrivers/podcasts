@@ -52,3 +52,9 @@ data-driven world.
 
  * [\@partiallyd](https://twitter.com/partiallyd)
  * [Website](http://partiallyderivative.com/)
+ 
+ ## Data Science Imposters
+
+ * [\@dsimposters](https://twitter.com/dsimposters)
+ * [Website](https://datascienceimposters.com/)
+ * [Facebook](https://www.facebook.com/dsimposters)
