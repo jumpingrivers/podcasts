@@ -94,6 +94,7 @@ The O'Reilly Data Show Podcast explores the opportunities and techniques driving
  * [\@partiallyd](https://twitter.com/partiallyd)
  * [Website](http://partiallyderivative.com/)
 
+
 ## The R Podcast
 
 As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
@@ -112,7 +113,11 @@ A podcast talking about machine learning. The hosts Katherine Gorman and Neil La
 * [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
 
  
-  
+## Data Science Imposters
+
+ * [\@dsimposters](https://twitter.com/dsimposters)
+ * [Website](https://datascienceimposters.com/)
+ * [Facebook](https://www.facebook.com/dsimposters)
  
  
 
