@@ -178,15 +178,25 @@ A podcast by scientists, for scientists. Methodology, scientific life, and bad l
   * [\@hertzpodcast](https://twitter.com/hertzpodcast)
   * [Website](https://soundcloud.com/everything-hertz)
   
+
+## Freakonomics Radio
+
+Steven D. Levitt and Stephen J. Dubner combine journalism and economics in a way that is intellectual,
+entertaining, and interesting.
+
+ * [Main site](http://freakonomics.com/)
+ * [\@freakonomics](https://twitter.com/freakonomics)
+
+
 ## Hidden Brain
 
 The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
 *(Some episodes discuss concepts and ideas related to data, hypotheses, human biases,..etc.)*
 
-* [\@HiddenBrain](https://twitter.com/HiddenBrain)
-* [Website](http://www.npr.org/series/423302056/hidden-brain)
-* [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
-* [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
+ * [\@HiddenBrain](https://twitter.com/HiddenBrain)
+ * [Website](http://www.npr.org/series/423302056/hidden-brain)
+ * [itunes](https://itunes.apple.com/us/podcast/hidden-brain/id1028908750)
+ * [Stitcher](https://www.stitcher.com/podcast/hidden-brain)
 
 ## In our Time
 
@@ -204,8 +214,15 @@ Tim Harford explains - and sometimes debunks - the numbers and statistics used i
 The programme has a UK slant, but covers global topics.
 
  * [BBC website](http://www.bbc.co.uk/programmes/b006qshd)
- 
 
+
+## Radio Lab
+
+A mixture of science and story to better understand our modern world. Created by Jad Abumrad and hosted by 
+Jad, Robert Krulwich, and a [lively team](https://www.wnycstudios.org/shows/radiolab/the-team).
+
+ * [Main site](https://www.wnycstudios.org/shows/radiolab)
+ * [\@Radiolab](https://twitter.com/Radiolab)
 
 <!--chapter:end:02-general.Rmd-->
 
