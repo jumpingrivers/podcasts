@@ -97,10 +97,13 @@ The O'Reilly Data Show Podcast explores the opportunities and techniques driving
 
 ## The R Podcast
 
-As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
+As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.  It features both technical explorations of R analyses and interviews with members of the R community.
 
  * [\@thercast](https://twitter.com/thercast)
-
+ * [Website](https://r-podcast.org)
+ * [iTunes](https://itunes.apple.com/us/podcast/the-r-podcast/id1140581792)
+ * [RSS](https://r-podcast.org/episode/index.xml)
+ * [YouTube](https://www.youtube.com/user/TheRPodcast)
 
 ## Talking Machines
 
